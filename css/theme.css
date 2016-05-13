@@ -1556,6 +1556,8 @@ section.dark p {
   letter-spacing: 0.5px;
 }
 section.content h1 {
+  background: url('../img/cocreation.jpg') center center no-repeat;
+  background-size: cover;
   font-size: 3em;
 }
 section.content h2 {
